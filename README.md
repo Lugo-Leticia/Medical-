@@ -1,5 +1,4 @@
-# Medical-
-Medical data, logistic and multiple regression analysis
 
+Medical data
 
-This projects will go through logistic and multiple regression analysis data using python. 
+This project aims to apply logistic and multiple regression analysis in python.
